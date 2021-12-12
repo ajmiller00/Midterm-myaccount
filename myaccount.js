@@ -13,7 +13,7 @@ const url = "mongodb+srv://amille26:cs20final@cluster0.ktqrs.mongodb.net/reveauc
 var name= "", email = "", phone = "", address = "";
 
 
-app.get('/', (req, res) => {
+app.get('', (req, res) => {
     res.write("hello!");
     res.end();
 
