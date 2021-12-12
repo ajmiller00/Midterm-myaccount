@@ -2,10 +2,10 @@
   "name": "final",
   "version": "1.0.0",
   "description": "Reve Au Chocolat",
-  "main": "myacount.js",
+  "main": "myaccount.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node myacount.js"
+    "start": "node myaccount.js"
   },
   "author": "",
   "license": "ISC",
